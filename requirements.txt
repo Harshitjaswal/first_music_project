@@ -1,6 +1,7 @@
-import sqlite3
-import pandas as pd
-import matplotlib.pyplot as plt
-import ipywidgets as widgets
-from IPython.display import display, clear_output
-from matplotlib import rcParams
+jupyter
+sqlite3
+pandas
+matplotlib
+ipywidgets
+
+
