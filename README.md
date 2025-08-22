@@ -11,4 +11,4 @@ It demonstrates basic data processing, analysis, and visualization techniques.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Harshitjaswal/your-repo-name.git
+   git clone https://github.com/Harshitjaswal/first_music_project.git
